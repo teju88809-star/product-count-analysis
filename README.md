@@ -1,6 +1,6 @@
 # product-count-analysis
 Product Count Analysis using Microsoft Excel and the Superstore dataset. This project analyzes product categories using COUNTIF and identifies the top category. It also calculates unique product counts for Furniture, Office Supplies, and Technology.
-# Task 15: Product Count Analysis
+#  Product Count Analysis
 
 ## Project Overview
 This project analyzes product categories using Microsoft Excel and the Superstore dataset. The objective is to count category records, identify the category with the highest count, and calculate the number of unique product names in each category.
