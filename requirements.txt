@@ -1,0 +1,13 @@
+Project Requirements
+--------------------
+1. Microsoft Excel 2021 or Microsoft 365 recommended.
+2. Superstore dataset in Excel format (.xlsx or .csv).
+3. Excel functions:
+   - COUNTIF
+   - INDEX
+   - MATCH
+   - MAX
+   - FILTER
+   - UNIQUE
+   - COUNTA
+4. A computer with Excel installed.
